@@ -20,11 +20,12 @@ Example Paragraph: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed 
 
 ## List Example
 
-Let's make an unorder list:
+Here are the main characters of the movie:
 
-* First
-* Second
-* Third
+* Orion Pax
+* D-16
+* Elita - 1
+* B-127
 
 Here is a list of my favorite Transformer appearances:
 
