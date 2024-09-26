@@ -1,0 +1,104 @@
+body{
+    margin: 0 auto;
+    max-width: 800px;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    font-family: Noto Sans, Helvetica, Verdana, sans-serif;
+    background-color: #002715;
+    color:#D3D0CB;
+    background-image: url(whiteferrari.png);
+}
+
+h1{
+    color: #ffffff;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Archivo Black', Helvetica, sans-serif;
+}
+
+h2 {
+    color: #3C91E6;
+    font-size: 24px;
+    padding-top: 1em;
+    text-align: center;
+}
+
+#edgy {
+    text-align: center;
+    font-family: 'Archivo Black', Helvetica, sans-serif;
+}
+
+li{
+    color:white;
+}
+
+a:link {
+    color:#3C91E6
+}
+
+a:hover {
+    color:#1f5080
+}
+
+a:visited {
+    color:#00509f
+}
+
+table, tr, th, td {
+    border: 1px solid #D3D0CB;
+    border-collapse:collapse;
+    padding: 8px;
+}
+
+th {
+    color: #002715;
+    background-color: #D3D0CB;
+    font-size: larger;
+}
+
+td{
+    text-align: center;
+}
+
+#super8 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+    background-color: #002715;
+}
+
+#gulch {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+    background-color: #1d1d1d;
+}
+
+#courses {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+    background-color: #1d1d1d;
+}
+
+#hero {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+    background-color: #002715;
+}
+
+#about {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+    background-color: #002715;
+}
+
+#favorites {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 40px 20px;
+    background-color: rgb(29, 29, 29);
+    
+}
